@@ -1,0 +1,29 @@
+.header {
+    font-size: 2.8rem;
+}
+
+.button {
+    font-size: 2rem;
+    background-color: rgb(6,182,212);
+    padding: 8px 32px;
+}
+
+.button:hover {
+    opacity: 0.9;
+    transform: scale(1.01);
+}
+
+.chartContainer {
+    height: 400px;
+}
+
+.dataHeading {
+    text-align: center;
+    font-size: 3.8rem;
+}
+
+.table {
+    font-size: 1.8rem;
+    width: 100%;
+}
+

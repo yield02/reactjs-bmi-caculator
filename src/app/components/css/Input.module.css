@@ -1,0 +1,21 @@
+.container {
+    flex-grow: 1;
+    padding: 0 32px;
+}
+.lable {
+    font-size: 2.4rem;
+    opacity: 0.8;
+    font-weight: 400;
+}
+
+.input:focus{
+    outline: none;
+}
+
+.input {
+    width: 100%;
+    border-radius: 50px;
+    font-size: 2.4rem;
+    color: rgb(82 82 91);
+    padding: 4px 16px;
+}
